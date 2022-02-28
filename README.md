@@ -12,14 +12,15 @@ I will need to write a Python Script to find:
 ## Election Audit Results
 * There were 369,711 votes casted in this congressional election.
 * The total votes for each county were
-  1. Jefferson: 10.5% (38,855)
-  2. Denver: 82.8% (306,055)
-  3. Arapahoe: 6.7% (24,801)
+  - Jefferson: 10.5% (38,855)
+  - Denver: 82.8% (306,055)
+  - Arapahoe: 6.7% (24,801)
 * The county with the largest number of votes was Denver.
 * The total votes each candidates received were
-  1. Diana DeGette: 73.8% (272,892)
-  2. Charles Casper Stockham: 23.0% (85,213)
-  3. Raymon Anthony Doane: 3.1% (11,606)
+  - Diana DeGette: 73.8% (272,892)
+  - Charles Casper Stockham: 23.0% (85,213)
+  - Raymon Anthony Doane: 3.1% (11,606)
 * Diana DeGette won the election. Her vote count was 272,892. It was 73.8% of the total votes.
 
 ## Election Audit Summary
+This script that we have created can be used for a variety of election data. It can be used for any county that was looking to generate the vote count.  
