@@ -23,4 +23,4 @@ I will need to write a Python Script to find:
 * Diana DeGette won the election. Her vote count was 272,892. It was 73.8% of the total votes.
 
 ## Election Audit Summary
-This script that we have created can be used for a variety of election data. It can be used for any county that was looking to generate the vote count.  
+This script can be used to audit other congressional districts and local elections. If we had more data on the voting methods we could write a script to determine which voting method was used the most. We can also pick a district with more than 3 counties and the script would still run.  
