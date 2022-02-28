@@ -4,18 +4,22 @@ Python
 Tom has asked us to assist in an election audit of the tabulated results for U.S Congressional precinct in Colorado. I have been asked to report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote. By using Python we will be able to automate the process. We will be taking a look at the three primary voting methods mail-in ballots, punch cards, and direct recording electronic. I had to generate a vote count report to certify this U.S. congressional race.
 I will need to write a Python Script to find:
 * Total number of votes cast
-* A complete list of candidates who received votes 
-* Total number of votes each candidate received 
-* Percentage of votes each candidate won
+* Total number of votes each candidate received and percentage for each candidate
 * The winner of the election based on popular vote
-* The voter turnout for each county
-* The percentage of votes from each county out of the total count
-* The county with the highest turnout
-* The voter turnout for each county
-* The percentage of votes from each county out of the total count
+* The percentage of votes from each county out of the total count and the voter turnout
 * The county with the highest turnout
 
 ## Election Audit Results
-
+* There were 369,711 votes casted in this congressional election.
+* The total votes for each county were
+  1. Jefferson: 10.5% (38,855)
+  2. Denver: 82.8% (306,055)
+  3. Arapahoe: 6.7% (24,801)
+* The county with the largest number of votes was Denver.
+* The total votes each candidates received were
+  1. Diana DeGette: 73.8% (272,892)
+  2. Charles Casper Stockham: 23.0% (85,213)
+  3. Raymon Anthony Doane: 3.1% (11,606)
+* Diana DeGette won the election. Her vote count was 272,892. It was 73.8% of the total votes.
 
 ## Election Audit Summary
